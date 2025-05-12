@@ -30,7 +30,7 @@ This is a simple todo list desktop application built using Java and SceneBuilder
 
 ## Screenshots
 
-![create new user form](project images/create new user form.JPGg)
+![create new user form](project images/create new user form.JPG)
 
 ## Contribution
 
